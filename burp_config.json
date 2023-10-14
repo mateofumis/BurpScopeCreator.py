@@ -1,0 +1,179 @@
+{
+    "target": {
+        "scope": {
+            "advanced_mode": true,
+            "exclude": [
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^panel\\.google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^panel\\.google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com\\.ar$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com\\.ar$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^admin\\.services-google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^admin\\.services-google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.login\\.google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.login\\.google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.dev\\.services-google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.dev\\.services-google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.services-google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.services-google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                }
+            ],
+            "include": [
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com\\.be$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^google\\.com\\.be$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^services-google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^services-google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.dev\\.example\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.dev\\.example\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.example\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.example\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.services-google\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.services-google\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                }
+            ]
+        }
+    }
+}
