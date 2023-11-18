@@ -1,0 +1,1 @@
+- Do not include "*" caracters in subdomains file, otherwise will not work.
