@@ -11,12 +11,14 @@
 
 ✅ Luego se ejecuta el script y se le proporcionan los argumentos necesarios para realizar la configuración.
 
+✅ **Importante** no incluir los caracteres "*" en el de subdominio.
+
 **En el caso de no haber una lista de dominios o subdominios tanto del scope como out-of-scope simplemente se deja el campo vacío.**
 
 # Preview
 
-![preview-1](https://raw.githubusercontent.com/mateofumis/BurpScopeCreator.py/main/preview_1.png)
+![preview_usage](https://raw.githubusercontent.com/mateofumis/BurpScopeCreator.py/main/preview_usage.png)
 
 ### Dentro de Burp Suite:
 
-![preview-2](https://raw.githubusercontent.com/mateofumis/BurpScopeCreator.py/main/preview_2.png)
+![preview-burpsuite](https://raw.githubusercontent.com/mateofumis/BurpScopeCreator.py/main/preview_burpsuite.png)
