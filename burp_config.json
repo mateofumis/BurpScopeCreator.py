@@ -6,84 +6,84 @@
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^panel\\.google\\.com$",
+                    "host": "^example\\.com/app-dev$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^panel\\.google\\.com$",
+                    "host": "^example\\.com/app-dev$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com\\.ar$",
+                    "host": "^example\\.com/admin$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com\\.ar$",
+                    "host": "^example\\.com/admin$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^admin\\.services-google\\.com$",
+                    "host": "^.*\\.dev\\.services-example\\.com$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^admin\\.services-google\\.com$",
+                    "host": "^.*\\.dev\\.services-example\\.com$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.login\\.google\\.com$",
+                    "host": "^.*\\.admin\\.services-example\\.com$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.login\\.google\\.com$",
+                    "host": "^.*\\.admin\\.services-example\\.com$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.dev\\.services-google\\.com$",
+                    "host": "^.*\\.dev\\.services-example\\.com\\.ar$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.dev\\.services-google\\.com$",
+                    "host": "^.*\\.dev\\.services-example\\.com\\.ar$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.services-google\\.com$",
+                    "host": "^.*\\.admin\\.services-example\\.com\\.ar$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.services-google\\.com$",
+                    "host": "^.*\\.admin\\.services-example\\.com\\.ar$",
                     "port": "^443$",
                     "protocol": "https"
                 }
@@ -92,56 +92,56 @@
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com$",
+                    "host": "^example\\.com$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com$",
+                    "host": "^example\\.com$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com\\.be$",
+                    "host": "^example\\.com\\.ar$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^google\\.com\\.be$",
+                    "host": "^example\\.com\\.ar$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^services-google\\.com$",
+                    "host": "^services-example\\.com$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^services-google\\.com$",
+                    "host": "^services-example\\.com$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.dev\\.example\\.com$",
+                    "host": "^services-example\\.com\\.ar$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.dev\\.example\\.com$",
+                    "host": "^services-example\\.com\\.ar$",
                     "port": "^443$",
                     "protocol": "https"
                 },
@@ -162,14 +162,14 @@
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.services-google\\.com$",
+                    "host": "^.*\\.services-example\\.com$",
                     "port": "^80$",
                     "protocol": "http"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.services-google\\.com$",
+                    "host": "^.*\\.services-example\\.com$",
                     "port": "^443$",
                     "protocol": "https"
                 }
